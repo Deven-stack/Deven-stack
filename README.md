@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deven-stack
+- 👋 Hi, I’m Deven @Deven-stack
 - 👀 I’m interested in coding and full stack development
 - 🌱 I’m currently learning Azure, AI
 - 💞️ I’m looking to collaborate on creating multiplatform apps
