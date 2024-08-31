@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating multiplatform apps
 - 📫 How to reach me @singh.deven95@gmail.com
 - 😄 Pronouns: DevenderSingh
-- ⚡ Fun fact: ...
+- ⚡ Fact: realtime development experience of 9+ yr
 
 <!---
 Deven-stack/Deven-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
